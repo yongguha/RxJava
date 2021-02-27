@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Common" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asyncsubject" />
+            <option value="$PROJECT_DIR$/asyncsubject2" />
+            <option value="$PROJECT_DIR$/behaviorsubject" />
+            <option value="$PROJECT_DIR$/buffer" />
+            <option value="$PROJECT_DIR$/combinelatest" />
+            <option value="$PROJECT_DIR$/concat" />
+            <option value="$PROJECT_DIR$/concatWith" />
+            <option value="$PROJECT_DIR$/connectableobservable" />
+            <option value="$PROJECT_DIR$/create" />
+            <option value="$PROJECT_DIR$/debounce" />
+            <option value="$PROJECT_DIR$/debugging" />
+            <option value="$PROJECT_DIR$/defer" />
+            <option value="$PROJECT_DIR$/errordebug" />
+            <option value="$PROJECT_DIR$/filter" />
+            <option value="$PROJECT_DIR$/flat_concat_switch_map" />
+            <option value="$PROJECT_DIR$/fromArray" />
+            <option value="$PROJECT_DIR$/interval_timer" />
+            <option value="$PROJECT_DIR$/just" />
+            <option value="$PROJECT_DIR$/lib" />
+            <option value="$PROJECT_DIR$/map_flatmap" />
+            <option value="$PROJECT_DIR$/memoryleak" />
+            <option value="$PROJECT_DIR$/publishSubject3" />
+            <option value="$PROJECT_DIR$/publishsubject" />
+            <option value="$PROJECT_DIR$/publishsubject2" />
+            <option value="$PROJECT_DIR$/range_repeat" />
+            <option value="$PROJECT_DIR$/reduce_scan" />
+            <option value="$PROJECT_DIR$/replaysubject" />
+            <option value="$PROJECT_DIR$/retry" />
+            <option value="$PROJECT_DIR$/rxjava1" />
+            <option value="$PROJECT_DIR$/sample" />
+            <option value="$PROJECT_DIR$/scheduler" />
+            <option value="$PROJECT_DIR$/single" />
+            <option value="$PROJECT_DIR$/subject" />
+            <option value="$PROJECT_DIR$/subscribewith" />
+            <option value="$PROJECT_DIR$/zip" />
+            <option value="$PROJECT_DIR$/zipWith" />
+            <option value="$PROJECT_DIR$/zip_electricmeter" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

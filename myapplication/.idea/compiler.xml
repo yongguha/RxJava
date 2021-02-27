@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="asyncsubject" target="1.7" />
+      <module name="asyncsubject2" target="1.7" />
+      <module name="behaviorsubject" target="1.7" />
+      <module name="buffer" target="1.7" />
+      <module name="combinelatest" target="1.7" />
+      <module name="concat" target="1.7" />
+      <module name="connectableobservable" target="1.7" />
+      <module name="create" target="1.7" />
+      <module name="debugging" target="1.7" />
+      <module name="defer" target="1.7" />
+      <module name="filter" target="1.7" />
+      <module name="flat_concat_switch_map" target="1.7" />
+      <module name="fromArray" target="1.7" />
+      <module name="interval_timer" target="1.7" />
+      <module name="map_flatmap" target="1.7" />
+      <module name="memoryleak" target="1.7" />
+      <module name="My_Application.app" target="1.8" />
+      <module name="My_Application.asyncsubject" target="1.8" />
+      <module name="My_Application.asyncsubject2" target="1.8" />
+      <module name="My_Application.behaviorsubject" target="1.8" />
+      <module name="My_Application.buffer" target="1.8" />
+      <module name="My_Application.combinelatest" target="1.8" />
+      <module name="My_Application.Common" target="1.8" />
+      <module name="My_Application.concat" target="1.8" />
+      <module name="My_Application.concatWith" target="1.8" />
+      <module name="My_Application.connectableobservable" target="1.8" />
+      <module name="My_Application.create" target="1.8" />
+      <module name="My_Application.debounce" target="1.8" />
+      <module name="My_Application.debugging" target="1.8" />
+      <module name="My_Application.errordebug" target="1.8" />
+      <module name="My_Application.filter" target="1.8" />
+      <module name="My_Application.flat_concat_switch_map" target="1.8" />
+      <module name="My_Application.fromArray" target="1.8" />
+      <module name="My_Application.interval_timer" target="1.8" />
+      <module name="My_Application.just" target="1.8" />
+      <module name="My_Application.map_flatmap" target="1.8" />
+      <module name="My_Application.publishsubject" target="1.8" />
+      <module name="My_Application.publishsubject2" target="1.8" />
+      <module name="My_Application.publishSubject3" target="1.8" />
+      <module name="My_Application.range_repeat" target="1.8" />
+      <module name="My_Application.reduce_scan" target="1.8" />
+      <module name="My_Application.replaysubject" target="1.8" />
+      <module name="My_Application.retry" target="1.8" />
+      <module name="My_Application.rxjava1" target="1.8" />
+      <module name="My_Application.sample" target="1.8" />
+      <module name="My_Application.scheduler" target="1.8" />
+      <module name="My_Application.single" target="1.8" />
+      <module name="My_Application.subject" target="1.8" />
+      <module name="My_Application.subscribewith" target="1.8" />
+      <module name="My_Application.zip" target="1.8" />
+      <module name="My_Application.zip_electricmeter" target="1.8" />
+      <module name="My_Application.zipWith" target="1.8" />
+      <module name="publishsubject" target="1.7" />
+      <module name="publishsubject2" target="1.7" />
+      <module name="publishSubject3" target="1.7" />
+      <module name="range_repeat" target="1.7" />
+      <module name="reduce_scan" target="1.7" />
+      <module name="replaysubject" target="1.7" />
+      <module name="rxjava1" target="1.7" />
+      <module name="sample" target="1.7" />
+      <module name="single" target="1.7" />
+      <module name="subject" target="1.7" />
+      <module name="subscribewith" target="1.7" />
+      <module name="zip" target="1.7" />
+      <module name="zip_electricmeter" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
